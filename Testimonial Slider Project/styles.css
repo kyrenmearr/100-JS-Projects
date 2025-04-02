@@ -1,0 +1,25 @@
+body {
+    display: flex;
+}
+
+.testimonial {
+    padding: 20px;
+    background-color: red;
+}
+
+.testimonial-card {
+    background-color: antiquewhite;
+}
+
+.testimonial-photo {
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.testimonial-text {
+    background-color: royalblue;
+    border-radius: 5px;
+    padding: 30px;
+}
